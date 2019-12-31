@@ -15,7 +15,7 @@
 
 ---
 
-## CleanMyMac X `4.4.4`
+## CleanMyMac X `4.5.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/CleanMyMac%20X.zip)
 
 ![](Icons/CleanMyMacX.png)
@@ -39,15 +39,15 @@ Hopper Disassembler 是一款Mac上强大的二进制反编译工具，可让您
 
 ![](Assets/HopperDisassembler.jpg)
 
-## Reveal `21`
-[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Reveal.dmg)
+## Reveal `24`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Reveal.zip)
 
 ![](Icons/Reveal.png)
 Reveal 是Mac os平台上的一款开发者调试IOS应用的Mac开发软件，它能够在运行时调试和修改iOS应用程序。Reveal能连接到应用程序，并允许开发者编辑各种用户界面参数，这反过来会立即反应在程序的UI上。
 
 ![](Assets/Reveal.gif)
 
-## MWeb `3.2.2`
+## MWeb `3.3.2`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/MWeb.zip)
 
 ![](Icons/MWeb.png)
@@ -55,7 +55,7 @@ MWeb 是一款Mac上专业的Markdown写作、记笔记、静态博客生成软�
 
 ![](Assets/MWeb.jpg)
 
-## Beyond Compare `4.2.10`
+## Beyond Compare `4.3.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Beyond%20Compare.zip)
 
 ![](Icons/BeyondCompare.png)
@@ -88,7 +88,7 @@ FlawlessApp 是一款专为UI设计师及开发者打造的一款UI原型矫正�
 
 ![](Assets/FlawlessApp.jpg)
 
-## Archiver `3.0.6`
+## Archiver `3.0.7`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Archiver.zip)
 
 ![](Icons/Archiver.png)
@@ -96,7 +96,7 @@ Archiver 是一款Mac上优秀的压缩解压缩工具，具有压缩包加密�
 
 ![](Assets/Archiver.jpg)
 
-## Navicat Premium 中文版 `12.1.23`
+## Navicat Premium 中文版 `15.0.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Navicat%20Premium.zip)
 
 ![](Icons/NavicatPremium.png)
@@ -104,7 +104,7 @@ Navicat Premium 是最优秀的数据库图形化管理客户端，支持MySQL�
 
 ![](Assets/NavicatPremium.jpg)
 
-## Downie `3.7.8`
+## Downie `3.8.9`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Downie%203.zip)
 
 ![](Icons/Downie.png)
@@ -112,7 +112,7 @@ Downie 是一款Mac上的非常好用的在线视频下载工具，支持包括Y
 
 ![](Assets/Downie.jpg)
 
-## Creo `2.0.6`
+## Creo `2.1.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Creo.zip)
 
 ![](Icons/Creo.png)
@@ -120,7 +120,7 @@ Creo for Mac开发工具，移动应用，集成了支持设计的用户界面�
 
 ![](Assets/Creo.jpg)
 
-## Transmit `5.5.1`
+## Transmit `5.6.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Transmit.zip)
 
 ![](Icons/Transmit.png)
@@ -128,7 +128,7 @@ Transmit 是一款 Mac 上的 FTP 客户端，无论在界面还是用户体验�
 
 ![](Assets/Transmit.jpg)
 
-## Dash `4.6.3`
+## Dash `4.6.7`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Dash.zip)
 
 ![](Icons/Dash.png)
@@ -144,7 +144,7 @@ MacBooster 是一款Mac上优秀的系统安全扫描和垃圾清理工具，Mac
 
 ![](Assets/MacBooster.jpg)
 
-## iMazing `2.9.13`
+## iMazing `2.10.5`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/iMazing.zip)
 
 ![](Icons/iMazing.png)
@@ -152,8 +152,8 @@ iMazing 是一款Mac上优秀的 iOS 设备管理工具，功能与 iTools Pro �
 
 ![](Assets/iMazing.jpg)
 
-## MarginNote `3.3.6007`
-[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/MarginNote.zip)
+## MarginNote `3.4.5`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/MarginNote%203.zip)
 
 ![](Icons/MarginNote.png)
 MarginNote 是一款Mac上功能强大的阅读和学习工具软件，它将PDF/EPUB阅读器和多种学习工具集成起来，使得学习者可以在学习时从不同的维度将知识进行重组，连接，从而达到记住，领会的效果，很不错的一款阅读学习工具！
@@ -168,7 +168,7 @@ Icons for mac是一款运行在macOS平台上的图标素材软件。这款软�
 
 ![](Assets/Icons.jpg)
 
-## Alfred `4.0.3`
+## Alfred `4.0.6`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Alfred%204.zip)
 
 ![](Icons/Alfred.png)
@@ -176,7 +176,7 @@ Alfred 是Mac上最好用的快速启动工具，修复了大量问题，Alfred�
 
 ![](Assets/Alfred.jpg)
 
-## Sketch `55.2`
+## Sketch `60`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Sketch.zip)
 
 ![](Icons/Sketch.png)
@@ -200,7 +200,7 @@ Pixelmator Pro 是知名的绘图软件Pixelmator的专业高级版本，专为M
 
 ![](Assets/1Password.jpg)
 
-## Sublime Text `3208`
+## Sublime Text `3.2.2`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Sublime%20Text.zip)
 
 ![](Icons/SublimeText.png)
@@ -208,7 +208,7 @@ Sublime Text 是Mac os平台上的一款非常不错的代码编辑器,同时 Su
 
 ![](Assets/SublimeText.jpg)
 
-## iRingg `1.0.38`
+## iRingg `1.0.42`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/iRingg.zip)
 
 ![](Icons/iRingg.png)
@@ -224,7 +224,7 @@ ePublr 是一款将文档转换为epub文件格式的工具。它不仅以不同
 
 ![](Assets/ePublr.jpg)
 
-## Boom 3D `1.2.4`
+## Boom 3D `1.3.2`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Boom%203D.zip)
 
 ![](Icons/Boom3D.png)
@@ -248,7 +248,7 @@ Trim Enabler Pro是一款Mac上实用的固态硬盘维护和检测工具, 如�
 
 ![](Assets/TrimEnablerPro.jpg)
 
-## CrossOver `18.5`
+## CrossOver `19.0.0.32154`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/CrossOver.zip)
 
 ![](Icons/CrossOver.png)
@@ -272,11 +272,11 @@ Parallels Desktop for Mac 是功能最强大灵活度最高的虚拟化方案，
 
 ![](Assets/ParallelsDesktop.jpg)
 
-## Adobe Zii Patcher `4.3.9`
-[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%20Patcher.zip)
+## Adobe Zii 2020 `5.0.7`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Adobe%20Zii%202020.zip)
 
 ![](Icons/AdobeZii.png)
-目前支持以下Adobe CC 2019 Mac 授权激活
+目前支持以下Adobe CC 授权激活
 
 Adobe Acrobat DC
 
@@ -312,9 +312,11 @@ Adobe Premiere Pro CC 2019
 
 Adobe XD CC
 
-Adobe Premiere Rush
+Adobe Photoshop 2020 21.0.0.37
 
-其余的等待TNT团队更新
+Adobe Photoshop Elements 2020 18.0
+
+Adobe Premiere Elements 2020 18.0
 
 **使用说明**
 
@@ -330,31 +332,31 @@ Adobe Premiere Rush
 
 下载并安装 Microsoft Office 2019 for Mac 安装包，然后安装 Microsoft_Office_2019_VL_Serializer.pkg
 ![](Assets/Microsoft_Office_2019_VL_Serializer.jpg)
-##  Paragon NTFS `15.5.53`
+##  Paragon NTFS `15.5.62`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Paragon%20NTFS.zip)
 
 ![](Icons/ParagonNTFS.png)
 Paragon NTFS 可以说是 Mac 上最知名的一款 NTFS 分区驱动了，能够让我们读写 NTFS 分区，因为在Mac OS X 系统上，默认对NTFS分区只能读而不能写，但我们的移动硬盘或U盘很多都是用NTFS进行的分区，所以当你发现在Mac上无法往移动硬盘或U盘中写入数据时，大部分原因是你没有按照NTFS分区驱动，安装此软件即可。
 ![](Assets/ParagonNTFS.jpg)
-##  Path Finder `8.5.4`
+##  Path Finder `9.0.3`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Path%20Finder.zip)
 
 ![](Icons/PathFinder.png)
 Path Finder 是一个文件浏览器，结合熟悉的搜索界面与强大的实用程序和创新的功能。Path Finder  是一款功能强劲并足以取代Finder的超赞软件，它完全能够媲美Finder，并且屡受好评。
 ![](Assets/PathFinder.jpg)
-##  DMG Canvas `2.4.1`
+##  DMG Canvas `3.0`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/DMG%20Canvas.zip)
 
 ![](Icons/DMGCanvas.png)
 DMG Canvas是一款Mac上快速生成DMG镜像的工具，能够自定义镜像的背景、名称、窗口大小和出现位置等等，非常的好用！
 ![](Assets/DMGCanvas.jpg)
-##  Polarr Photo Editor Pro `5.5.7`
+##  Polarr Photo Editor Pro `5.10.3`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Polarr%20Photo%20Editor%20Pro.zip)
 
 ![](Icons/PolarrPhotoEditorPro.png)
 泼辣修图是一款Mac上给广大摄影玩家和发烧友设计的高级且易用的修图软件，增加了Photos.app 拓展插件等功能，软件小巧但功能强大，12组高质量的滤镜组合针对迅速修片！
 ![](Assets/PolarrPhotoEditorPro.jpg)
-##  Keka `1.1.16`
+##  Keka `1.1.21`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Keka.zip)
 
 ![](Icons/Keka.png)
@@ -368,7 +370,7 @@ Keka 是比较常用的压缩软件，体积小，简单易用，速度较快。
 ![](Icons/PDFExpert.png)
 PDF Expert 是备受称赞的PDF阅读工具，界面简洁、PDF打开和浏览速度都很不错，要比自带的预览好用多了.
 ![](Assets/PDFExpert.jpg)
-##  AdGuard `2.0.6`
+##  AdGuard `2.1.4`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/AdGuard.zip)
 
 ![](Icons/AdGuard.png)
@@ -386,13 +388,13 @@ PDF Converter with OCR for Mac是一款具有OCR(光学字符识别技术)的PDF
 ![](Icons/Recoverit.png)
 Wondershare Recoverit 是一个非常可靠的数据恢复工具，它可以从任何存储介质中恢复数据。无论你的数据从哪里丢失，它就能从哪里帮您找回来，包括删除的文件，回收站，格式化磁盘，分区丢失，外部设备，病毒攻击数据等等。
 ![](Assets/Recoverit.jpg)
-##  Axure RP `9.0.0.3650`
+##  Axure RP `9.0.0.3669`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Axure%20RP%209.zip)
 
 ![](Icons/AxureRP.png)
 Axure RP是最知名和最强大的专业的快速原型设计工具，让负责定义需求和规格、设计功能和界面的专家能够快速创建应用软件或Web网站的线框图、流程图、原型和规格说明文档。
 ![](Assets/AxureRP.jpg)
-##  Fantastical 2 `2.5.9`
+##  Fantastical 2 `2.5.12`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Fantastical%202.zip)
 
 ![](Icons/Fantastical.png)
@@ -410,13 +412,13 @@ iText是一款从图片中识别文字的OCR（光学字符识别）工具。通
 ![](Icons/uBar.png)
 uBar 是一款让你的 Mac 拥有类似 Windows 的任务栏的工具，如果你不想要 Dock 栏，还是喜欢 Windows 上的任务栏，那么这款软件就可以帮助你实现这个需求，当然，Dock和任务栏也可以一起使用
 ![](Assets/uBar.jpg)
-##  PDF Squeezer `3.10.3`
+##  PDF Squeezer `3.10.4`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/PDF%20Squeezer.zip)
 
 ![](Icons/PDFSqueezer.png)
 PDF Squeezer是一款Mac上压缩PDF文件大小的工具，仅需要简单的拖拽，就可以快速的压缩PDF文件的体积，针对图片生成的PDF文件可以很好的压缩大小，支持批量处理和自定义压缩配置。
 ![](Assets/PDFSqueezer.jpg)
-##  Goldie App `1.3.1`
+##  Goldie App `1.5.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Goldie%20App.zip)
 
 ![](Icons/GoldieApp.png)
@@ -428,9 +430,15 @@ Goldie App 是mac上一款非常强大的黄金比例设计工具，Goldie App�
 ![](Icons/EnolsoftPDFPasswordRemover.png)
 解锁PDF，解锁内容，删除Mac上的PDF密码，以便轻松打开，编辑和打印PDF。
 ![](Assets/EnolsoftPDFPasswordRemover.jpg)
-##  XMind ZEN `9.2.1`
+##  XMind ZEN `9.3.1`
 [**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/XMind%20ZEN.zip)
 
 ![](Icons/XMindZEN.png)
 XMind ZEN 是一款全新的思维导图软件，也是Xmind新出的产品。Xmind ZEN采用全新的内核，拥有经典Xmind操作体验，完美坐到一种全新却不失经典的体验，界面简洁，上手容易操作简单。
 ![](Assets/XMindZEN.jpg)
+##  Eagle `1.9.2`
+[**下载地址**](https://dev.tencent.com/u/ChenJie1219/p/MacApps/git/raw/master/APP/Eagle.zip)
+
+![](Icons/Eagle.png)
+Eagle 是一款非常好用的mac图片管理工具，可以帮助用户轻松整理电脑中的图片，让你再也不用因为图片太乱而烦恼。Eagle mac版完美结合图片收集、整理、搜索等三大功能，轻松完成图片查看、整理、分类，迅速保存你喜爱的图片，让设计素材保持整洁，让你以更高效的方式保管您的图片，也可以作为图片浏览器使用，功能非常强大。
+![](Assets/Eagle.jpg)
